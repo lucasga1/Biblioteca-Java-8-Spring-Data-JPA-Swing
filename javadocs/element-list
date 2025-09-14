@@ -1,0 +1,17 @@
+com.alpha7
+com.alpha7.api.biblioteca
+com.alpha7.api.biblioteca.dto
+com.alpha7.api.model
+com.alpha7.api.repository
+com.alpha7.api.repository.specification
+com.alpha7.api.service
+com.alpha7.api.service.impl
+com.alpha7.api.util
+com.alpha7.common.appconfig
+com.alpha7.common.client
+com.alpha7.common.dto
+com.alpha7.common.exception
+com.alpha7.view.atualizarlivros
+com.alpha7.view.inclusaolivros
+com.alpha7.view.telaprincipal
+com.alpha7.view.util
